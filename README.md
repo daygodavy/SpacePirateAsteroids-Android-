@@ -1,3 +1,10 @@
+
+![Poster Presentation_page-0001](https://github.com/daygodavy/SpacePirateAsteroids-Android-/assets/35315835/95a6cc54-8084-4607-9dd8-6807039ef65d) ![Poster Presentation_page-0002](https://github.com/daygodavy/SpacePirateAsteroids-Android-/assets/35315835/6665d943-daf9-4d03-a11b-a033482786ae) ![Poster Presentation_page-0003](https://github.com/daygodavy/SpacePirateAsteroids-Android-/assets/35315835/bac093e3-d780-4659-8e36-50914487b48a) ![Poster Presentation_page-0004](https://github.com/daygodavy/SpacePirateAsteroids-Android-/assets/35315835/729f5fd1-e914-4c23-a788-d4270d3523be) ![Poster Presentation_page-0005](https://github.com/daygodavy/SpacePirateAsteroids-Android-/assets/35315835/eec0fa94-1247-44ed-ba98-6ca7cc8bfb58)
+
+
+
+
+
 # FooSummer
 Team FooSummer will recreate and redesign the classic Atari 2600 game `Asteroids`.
 
